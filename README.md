@@ -82,6 +82,7 @@
 
 <div align="center">
     <span><b>🏆 Certificate :</b></span>
+    <br>
 </div>
 
 <div align="center">
