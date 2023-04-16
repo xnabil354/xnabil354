@@ -14,6 +14,8 @@
     <span><b>💫 About Me :</b></span>
 </div>
 
+<br>
+
 <div align="center">
     <div>
         <span>👋 Hello I'm X - ZhnDvs</span>
@@ -34,6 +36,8 @@
     <span><b>🌐 Social Media :</b></span>
 </div>
 
+<br>
+
 <div align="center">
     <a href="https://instagram.com/xzhndvs">
         <img style="border-radius: 25px;" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
@@ -52,18 +56,10 @@
 <hr>
 
 <div align="center">
-    <span><b>🎮 Udemy :</b></span>
-</div>
-
-<div align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mrg3p5.png" alt="TryHackMe">
-</div>
-
-<hr>
-
-<div align="center">
     <span><b>💻 Tech Stack :</b></span>
 </div>
+
+<br>
 
 <div align="center">
     <img style="border-radius: 25px;" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
@@ -82,8 +78,9 @@
 
 <div align="center">
     <span><b>🏆 Certificate :</b></span>
-    <br>
 </div>
+
+<br>
 
 <div align="center">
     <img width="350px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ae7576a7-0a4c-49f7-8535-fac83f480ddf.jpg">
