@@ -48,9 +48,6 @@
     <a href="https://wa.me/6281281524356">
         <img style="border-radius: 25px;" src="https://img.shields.io/badge/Whatsapp-%23017e40.svg?logo=Whatsapp&logoColor=white">
     </a>
-    <a href="https://inbox.google.com/mail/?view=cm&fs=1&to=nabil.voel354@gmail.com">
-        <img style="border-radius: 15px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
 </div>
 
 <hr>
