@@ -85,16 +85,16 @@
 </div>
 
 <div align="center">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ae7576a7-0a4c-49f7-8535-fac83f480ddf.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-68b535fc-f962-4098-92ca-6bb8a326fe64.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-b4ef0066-cd02-45e9-996b-ffc2f3d4c95a.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-557a5a86-f9ab-4c57-9db7-a7b0c6ea386b.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-2e9c8a32-0e49-4d5c-80cf-6aab264d5945.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ce5a1e01-0e8c-45da-abc4-e2c4d633214e.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-4281433c-a014-45d6-bb49-79fa0149c7e4.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ebdb4c02-33c1-4700-ae88-4182b816edb2.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ad19b373-92dc-4fa5-ba29-87dea54459b8.jpg">
-    <img width="300px" height="150px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-69cf6904-d76b-4a89-9f3d-ffbc3985800a.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ae7576a7-0a4c-49f7-8535-fac83f480ddf.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-68b535fc-f962-4098-92ca-6bb8a326fe64.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-b4ef0066-cd02-45e9-996b-ffc2f3d4c95a.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-557a5a86-f9ab-4c57-9db7-a7b0c6ea386b.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-2e9c8a32-0e49-4d5c-80cf-6aab264d5945.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ce5a1e01-0e8c-45da-abc4-e2c4d633214e.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-4281433c-a014-45d6-bb49-79fa0149c7e4.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ebdb4c02-33c1-4700-ae88-4182b816edb2.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-ad19b373-92dc-4fa5-ba29-87dea54459b8.jpg">
+    <img width="300px" height="250px" src="https://udemy-certificate.s3.amazonaws.com/image/UC-69cf6904-d76b-4a89-9f3d-ffbc3985800a.jpg">
 </div> 
 
 <hr>
