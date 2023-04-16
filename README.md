@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://github.com/xnabil354">
-        <img title="X-ZhnDvs" style="border-radius: 25px;" src="https://img.shields.io/badge/X ZhnDvs-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+        <img title="X-ZhnDvs" style="border-radius: 25px;" src="https://img.shields.io/badge/X-ZhnDvs-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
     </a>
 </p>
 
