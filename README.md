@@ -24,7 +24,7 @@
         <br>
         <span>👨‍💻 Experience Level: 2+ years</span>
         <br>
-        <span>👨‍🎓 Student At SMAN 15 Jakarta</span>
+        <span>👨‍🎓 Information System</span>
         <br>
         <span>🧩 Interested in: Technology & Web Development</span>
     </div>
